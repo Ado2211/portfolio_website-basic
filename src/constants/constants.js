@@ -38,10 +38,19 @@ export const projects = [
   {
     title: 'Demo page',
     description: "Using HTML, CSS created beatiful demo page.",
-      image: '/images/demoPage.png',
+      image: '/images/demoPage1.png',
       tags: ['HTML', 'CSS',],
     source: 'https://github.com/Ado2211/My_web_page',
     visit: 'https://github.com/Ado2211/My_web_page',
+    id: 4,
+  },
+  {
+    title: 'Restaurant web-app',
+    description: "Using React, CSS created beatiful restaurant page.",
+      image: '/images/Untitled.jpg',
+      tags: ['React', 'CSS',],
+    source: '',
+    visit: '',
     id: 4,
   },
 

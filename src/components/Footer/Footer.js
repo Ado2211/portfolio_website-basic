@@ -8,14 +8,18 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <LinkList>
+      <LinkColumn>
+          <LinkTitle>Name</LinkTitle>
+          <LinkItem href="Muhamed Kuclar">Muhamed Kuclar</LinkItem>
+        </LinkColumn>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:060-3586-785">060-3586-785</LinkItem>
+          <LinkItem href="tel:+383 44340476">+383 44340476</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
-            mahmica@gmail.com
+          <LinkItem href="mailto:kuclarmuhamed@gmail.com">
+          kuclarmuhamed@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -24,13 +28,13 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/Ado2211">
+          <SocialIcons href="">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/adnan-mahmi%C4%87-74831022a/">
+          <SocialIcons href="https://www.linkedin.com/in/muhamed-ku%C4%8Dlar-209a0b237/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.facebook.com/adnan.mahmic2/">
+          <SocialIcons href="">
             <AiFillFacebook size="3rem" />
           </SocialIcons>
         </SocialContainer>

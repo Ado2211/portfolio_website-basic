@@ -104,7 +104,7 @@ export const Slogan = styled.p`
 export const SocialContainer = styled.div`
 	display: flex;
   align-items: center;
-
+  
 	@media ${props => props.theme.breakpoints.md}{
 		justify-content: center;
 		padding-right: 16px;
@@ -157,3 +157,5 @@ export const LinkTitle = styled.h4`
 		margin-bottom: 8px;
 	}
 `
+
+
