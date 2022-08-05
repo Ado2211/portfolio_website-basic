@@ -19,7 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
+            Experience with <br />
             HTML, CSS (bootstrap), Material-Ui, Javascript (React.js), 
           </ListParagraph>
         </ListContainer>
