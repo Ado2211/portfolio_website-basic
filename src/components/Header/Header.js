@@ -4,6 +4,7 @@ import { AiFillGithub, AiFillFacebook, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import * as ReactBootStrap from "react-bootstrap";
 
 const Header = () =>  (
   <Container>

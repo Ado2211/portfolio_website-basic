@@ -3,7 +3,7 @@ import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
-const Technologies = () =>  (
+const Technologies = () => (
   <Section id="tech">
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
@@ -20,11 +20,11 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            HTML, CSS (bootstrap), Material-Ui, Javascript (React.js), 
+            HTML, CSS (bootstrap), Material-Ui, Javascript (React.js),
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      
+
       <ListItem>
         <picture>
           <DiZend size="3rem" />
@@ -33,8 +33,8 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-             Figma
-          </ListParagraph>
+            Figma
+          </ListParagraph>[]
         </ListContainer>
       </ListItem>
     </List>
