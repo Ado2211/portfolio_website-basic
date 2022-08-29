@@ -14,7 +14,9 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        We use agile methodologies & the latest technology to develop superior web sites and take your business to the next level.
+          Hi, I'm Adnan, Frontend Web Developer. <br></br>
+        We use agile methodologies & the latest technology to develop 
+        superior web sites and take your business to the next level.
         </SectionText>
        
       </LeftSection>
